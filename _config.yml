@@ -18,7 +18,7 @@ sidebar-avatar: /img/01.jpg      # use absolute URL, seeing it's used in both `/
 
 # SNS settings
 RSS: false
-# weibo_username:     
+# weibo_username:     烤鸭     
 zhihu_username:username
 github_username:     googlenot404    
 facebook_username:     username
