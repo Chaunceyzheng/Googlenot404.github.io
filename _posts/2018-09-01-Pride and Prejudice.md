@@ -34,6 +34,8 @@ tags:
   
   "Why, my dear, your must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr.Morris immediately; that he is to take possessio n befor Michaelmas, and some of his servants are to be in the house by the end of next week."
   
+  🤓
+  
   
   
   
